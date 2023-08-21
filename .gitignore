@@ -1,4 +1,5 @@
 *.docx
 *.csv
-/ipyb_checkpoints
+*/ipyb_checkpoints/*
 *.pdf
+.DS_Store
