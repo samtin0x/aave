@@ -1,0 +1,4 @@
+*.docx
+*.csv
+/ipyb_checkpoints
+*.pdf
